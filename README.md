@@ -1,5 +1,12 @@
 # Hi there ✋!
-Hi! ...
+Hi! 
+At the age of 5, my favorite tool was the screwdriver. With parts from various toys, I built interesting things, especially motors fascinated me (and then gasoline engines as well). 
+In the late '80s, at the age of 7, I was gifted an Amstrad CPC, by 8 I learned Basic, and by 9, I wrote my first program. 
+At 12, I received my first PC (a Pentium 100), which in less than a year, I was installing different Linux distros and starting to learn VB. 
+At 14, I managed to convince my parents to buy a modem and invade the telephone line with calls to enter cyberspace. 
+At 15, I began my foray into Hacking, showcasing it on a website, and at 17, I set up my first serious website about telephony, where I sold Airtel mobile phones and unlocking cables. 
+At 17, I was entrusted with my first major project, a 2D GIS programmed from scratch in VB6 to carry out the inventory of urban furniture and green areas for the municipalities of Getxo and Basauri. 
+After this, I launched into the labor market, from which I have never left except on a couple of occasions to continue my education, as I am currently doing by studying the common core at 42 Urduliz to gain access to specializations such as Cybersecurity, DevOps, and to improve my profile in web and mobile development with the latest technologies.
 
 # Table of contents
 - [Hi there ✋!](#hi-there-)
