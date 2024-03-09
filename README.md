@@ -262,11 +262,15 @@ After this, I launched into the labor market, from which I have never left excep
 
 # 42.fr proyects
 
+[![ivromero's 42 stats](https://badge.mediaplus.ma/greenbinary/ivromero?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 | Proyect   | Mark | Comment                                                                |
 |-----------|------|------------------------------------------------------------------------|
 | Libft     |  125 | 
-| ft_printf |      |
-| ft_gnl    |      |
+| ft_printf |  100 |
+| ft_gnl    |  125 |
+| b2br      |  115 |
+| so_long   |  124 |
 
 # Old proyects
 
