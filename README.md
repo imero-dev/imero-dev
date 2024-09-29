@@ -264,26 +264,28 @@ After this, I launched into the labor market, from which I have never left excep
 
 [![ivromero's 42 stats](https://badge.mediaplus.ma/greenbinary/ivromero?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-| Proyect   | Mark | Comment                                                                |
-|-----------|------|------------------------------------------------------------------------|
-| Libft     |  125 | 
-| ft_printf |  100 |
-| ft_gnl    |  125 |
-| b2br      |  115 |
-| so_long   |  124 |
-| pipex     |  100 |
+| Proyect      | Mark | Comment                                                                |
+|--------------|------|------------------------------------------------------------------------|
+| Libft        |  125 | 
+| ft_printf    |  100 |
+| ft_gnl       |  125 |
+| b2br         |  115 |
+| so_long      |  124 |
+| pipex        |  100 |
+| philosophers |  100 |
+| minishell    |  100 |
 
 # Old proyects
 
 https://web.archive.org/web/20010526221918/http://www.gsmdirecto.com:80/
 
 # GitHub Stats
-![Estadísticas de GitHub de your_username](https://github-readme-stats.vercel.app/api?username=MeroFilosofo&show_icons=true&theme=dark)
+![Estadísticas de GitHub de imero-dev](https://github-readme-stats.vercel.app/api?username=imero-dev&show_icons=true&theme=dark)
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MeroFilosofo&layout=compact&theme=dark)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=imero-dev&layout=compact&theme=dark)
 
 <!--
-**MeroFilosofo/MeroFilosofo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**imero-dev/imero-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
